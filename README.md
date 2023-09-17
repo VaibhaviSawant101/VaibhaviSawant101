@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🐛, I'm Vaibhavi Kailas Sawant</h1>
-<h3 align="center">I am currently studying for BTech in Computer Engineering at JSPM's Rajarshi Shahu College of Engineering.</h3>
+<h3 align="center">I am pursuing my BTech degree in Computer Engineering at JSPM's Rajarshi Shahu College of Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavisawant101&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavisawant101" /> </p>
 
