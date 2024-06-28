@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🐛, I'm Vaibhavi Kailas Sawant</h1>
-<h3 align="center">I am pursuing my BTech degree in Computer Engineering at JSPM's Rajarshi Shahu College of Engineering.</h3>
+<h3 align="center">I am a Computer Engineering 2024 passout from JSPM's Rajarshi Shahu College of Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavisawant101&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavisawant101" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🧠 I am an **open-source enthusiast** , possessing **robust problem-solving abilities**. I **work effectively within teams**, maintain a **persistent attitude**, exhibit a **keenness for learning**, and am **highly dedicated**
 
-- 🌱 I’m currently focusing on **Machine Learning and Deep Learning**
+- 🌱 I have expertise in the following  - Backend: Node.js, Epress.js, JavaScript, Java, SpringBoot  - Frontend: HTML/CSS, React.js, Bootstrap, Tailwind  - Databases: MongoDB, MySQL  - Others: Git, MVC, REST, DSA, ML, DL**
 
 - 👯 I’m looking forward to **be a part of various interesting projects.**
 
