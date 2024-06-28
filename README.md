@@ -13,20 +13,6 @@
 
 <img alt="GIF" src="https://github.com/VaibhaviSawant101/VaibhaviSawant101//blob/main/img.gif?raw=true" width="500"/> 
 
-### Skills
-<p align="center">
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,python,java" />
-    <img src="https://skillicons.dev/icons?i=html,css,js"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>         
-</p>
-<hr/>
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/VaibhaviSawant101" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
